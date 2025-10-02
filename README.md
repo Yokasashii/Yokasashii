@@ -6,13 +6,11 @@
 
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Yokasashii&theme=radical" alt="GitHub Streak" /></a></p>
 
----
 
 <h2 ><span style="color: #cd4848ff; font-size: 22px;">My Used Languages </span></h2>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yokasashii&theme=radical&layout=donut" alt="Top Languages" /></p>
 
----
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=45b087ff&center=true&vCenter=true&width=450&lines=Bye+Byee+!;Thank+you+for+stopping+by+!"/></p>
 <p>
