@@ -8,7 +8,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Yokasashii&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h2><span style="color: rgba(116, 216, 194, 1); font-size: 20px;">-- My Langueges --</span></h2>
+<h2><span style="color: rgba(116, 216, 194, 1); font-size: 20px;">-- My Languages --</span></h2>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yokasashii&theme=radical&layout=donut" alt="Top Languages" /></p>
 
