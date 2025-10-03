@@ -19,3 +19,4 @@
   📫 Contact : <a href="mailto:vincent.guerrini@ynov.com">vincent.guerrini@ynov.com</a> | 
   🌐 Portfolio : <a href="mailto:vincent.guerrini@ynov.com">🏗️</a>
 </p>
+...
