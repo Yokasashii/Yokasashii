@@ -28,9 +28,19 @@
   <a href="https://github.com/Yokasashii/The-Vengeful-Blade"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Yokasashii&repo=The-Vengeful-Blade&center=true&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="The-Vengeful-Blade"></a>
 </p>
 
-<a href="https://github.com/Yokasashii?tab=repositories&q=&type=&language=&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-
 ---
+
+<h2 align="center"><span style="color: rgba(247,92, 126); font-size: 20px;">-- My statistics by the way --</span></h2>
+
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Yokasashii&theme=radical" alt="GitHub Streak" /></a></p>
+
+<h2><span style="color: rgba(247,92, 126); font-size: 20px;">-- My Skill Issue --</span></h2>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Yokasashii&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
+<h2><span style="color: rgba(247,92, 126); font-size: 20px;">-- My Languages --</span></h2>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yokasashii&theme=radical&layout=donut" alt="Top Languages" /></p>
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=f75c7e&center=true&vCenter=true&width=450&lines=Bye+Byee+!;Thank+you+for+stopping+by+!"/></p>
 <p>
@@ -42,4 +52,3 @@
   📫 Contact : <a href="mailto:vincentguerrini07@gmail.com.com">vvincentguerrini07@gmail.com.com</a> | 
   🌐 Portfolio : <a href="mailto:vincent.guerrini@ynov.com">🏗️</a>
 </p>
-
