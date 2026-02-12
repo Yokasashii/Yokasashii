@@ -34,7 +34,7 @@
 
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Yokasashii&theme=radical" alt="GitHub Streak" /></a></p>
 
-<h2><span style="color: rgba(247,92, 126); font-size: 20px;">-- My Languages --</span></h2>
+<h2 align="center"><span style="color: rgba(247,92, 126); font-size: 20px;">-- My Languages --</span></h2>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yokasashii&theme=radical&layout=donut" alt="Top Languages" /></p>
 
