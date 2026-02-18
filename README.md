@@ -34,9 +34,19 @@
 
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Yokasashii&theme=radical" alt="GitHub Streak" /></a></p>
 
-<h2 align="center"><span style="color: rgba(247,92, 126); font-size: 20px;">-- My Languages --</span></h2>
+<h2 align="center"><span style="color: rgba(247,92, 126); font-size: 20px;">-- My Skills --</span></h2>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yokasashii&theme=radical&layout=donut" alt="Top Languages" /></p>
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)]()
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)]()
+[![Godot Engine](https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)]()
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=f75c7e&center=true&vCenter=true&width=450&lines=Bye+Byee+!;Thank+you+for+stopping+by+!"/></p>
 <p>
