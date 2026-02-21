@@ -25,7 +25,7 @@
   <a href="https://github.com/Yokasashii/Yokasashii"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Yokasashii&repo=Yokasashii&center=true&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Yokasashii"></a>
   <a href="https://github.com/Yokasashii/Whos-That-Pokemon"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Yokasashii&repo=Whos-That-Pokemon&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&center=true&icon_color=F8D866&show_icons=false" alt="Fighting-Tournaments"></a>
   <a href="https://github.com/Yokasashii/PlatineThemAll-Bot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Yokasashii&repo=PlatineThemAll-Bot&center=true&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Calculator"></a>
-  <a href="https://github.com/Yokasashii/The-Vengeful-Blade"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Yokasashii&repo=The-Vengeful-Blade&center=true&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="The-Vengeful-Blade"></a>
+  <a href="https://github.com/Yokasashii/Calculator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Yokasashii&repo=Calculator&center=true&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="The-Vengeful-Blade"></a>
 </p>
 
 ---
