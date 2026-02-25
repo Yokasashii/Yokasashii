@@ -57,5 +57,4 @@
 
 <p align="center">
   📫 Contact : <a href="mailto:vincentguerrini07@gmail.com.com">vincentguerrini07@gmail.com</a> | 
-  🌐 Portfolio : <a href="mailto:vincent.guerrini@ynov.com">🏗️</a>
 </p>
