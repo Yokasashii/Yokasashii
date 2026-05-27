@@ -1,4 +1,4 @@
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=f75c7e&center=true&vCenter=true&width=450&lines=Hello+Yokasashi+Here+!;Junior+Software+Developer;Welcome+to+my+GitHub+Profile"/></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=f75c7e&center=true&vCenter=true&width=450&lines=Hello+Yokasashi+Here+!;Junior+Game+Developer;Welcome+to+my+GitHub+Profile"/></p>
 
 
 <p align="center">
