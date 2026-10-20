@@ -10,7 +10,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://x.com/OnlyYoka"><img width="32px" alt="Twitter" title="Twitter" src="https://img.magnific.com/vecteurs-premium/nouveau-logo-twitter-x-2023-telechargement-vectoriel-du-logo-twitter-x_691560-10794.jpg?semt=ais_hybrid&w=740&q=80"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="discord.com" alt="Discord" title="Discord"><img width="32px" src="https://static.vecteezy.com/ti/vecteur-libre/p1/6892625-discord-logo-icon-editorial-vector-gratuit-vectoriel.jpg"/></a>
+  <a href="discord.com" alt="Discord" title="Discord"><img width="32px" src="https://pngimg.com/uploads/discord/small/discord_PNG8.png"/></a>
 
 </p>
 
