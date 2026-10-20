@@ -1,16 +1,17 @@
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=f75c7e&center=true&vCenter=true&width=450&lines=Hello+Yokasashi+Here+!;Junior+Software+Developer;Welcome+to+my+GitHub+Profile"/></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=ffff&center=true&vCenter=true&width=450&lines=Hello+Yokasashi+Here+!;Indie+Game+Developer;Welcome+to+my+GitHub+Profile"/></p>
 
 
 <p align="center">
-  <a href="https://www.youtube.com/@Yokasashii"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://www.youtube.com/@Yokasashii"><img width="32px" alt="Youtube" title="Youtube" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/vincent-guerrini-163920374/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.linkedin.com/in/vincent-guerrini-163920374/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/3840px-LinkedIn_icon.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://x.com/yokasashi"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  <a href="https://yokasashi.itch.io"><img width="32px" alt="Itch.io" title="Check my Games" src="https://brandlogos.net/wp-content/uploads/2025/12/itch.io-logo_brandlogos.net_bhtjr.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.osadeo.com" alt="Discord" title="Osadeo Studio Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://x.com/OnlyYoka"><img width="32px" alt="Twitter" title="Twitter" src="https://img.magnific.com/vecteurs-premium/nouveau-logo-twitter-x-2023-telechargement-vectoriel-du-logo-twitter-x_691560-10794.jpg?semt=ais_hybrid&w=740&q=80"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/yokasashi"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a> 
+  <a href="" alt="Discord" title=""><img width="32px" src="https://static.vecteezy.com/ti/vecteur-libre/p1/6892625-discord-logo-icon-editorial-vector-gratuit-vectoriel.jpg"/></a>
+
 </p>
 
 <p align="center">
@@ -21,40 +22,53 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/Yokasashii/The_Hangman"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Yokasashii&repo=The_Hangman&theme=react&bg_color=1F222E&title_color=F85D7F&center=true&hide_border=true&icon_color=F8D866&show_icons=false" alt="The_Hangman"></a>
-  <a href="https://github.com/Yokasashii/PlayBoard"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Yokasashii&repo=PlayBoard&center=true&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Yokasashii"></a>
-  <a href="https://github.com/Yokasashii/COOL-Money"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Yokasashii&repo=COOL-Money&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&center=true&icon_color=F8D866&show_icons=false" alt="Fighting-Tournaments"></a>
+  <a href="https://github.com/Yokasashii/RetroGodot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Yokasashii&repo=RetroGodot&theme=react&bg_color=1F222E&title_color=F85D7F&center=true&hide_border=true&icon_color=F8D866&show_icons=false" alt="RetroGodot"></a>
   <a href="https://github.com/Yokasashii/PlatineThemAll-Bot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Yokasashii&repo=PlatineThemAll-Bot&center=true&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Calculator"></a>
+  <a href="https://github.com/Yokasashii/COOL-Money"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Yokasashii&repo=COOL-Money&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&center=true&icon_color=F8D866&show_icons=false" alt="Fighting-Tournaments"></a>
   <a href="https://github.com/Yokasashii/Frog-Me-If-You-Can"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Yokasashii&repo=Frog-Me-If-You-Can&center=true&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="The-Vengeful-Blade"></a>
+  <a href="https://github.com/Yokasashii/PlayBoard"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Yokasashii&repo=PlayBoard&center=true&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Yokasashii"></a>
+</p>
+
+<h2 align="center"><span style="color: rgba(255,255,255); font-size: 20px;">--  Skills --</span></h2>
+
+<h3 align="center"><span style="color: rgba(255,255,255); font-size: 20px;">Languages</span></h3>
+<p align="center"> 
+<img height="64" src="icons/csharp.png" alt="C#" />
+<img height="64" src="icons/go.png" alt="Go" />
+<img height="64" src="icons/gdscript.png" alt="GDScript" />
+<img height="64" src="icons/html.png" alt="HTML" />
+<img height="64" src="icons/css.png" alt="CSS" />
+<img height="64" src="icons/java.png" alt="Java" /> 
+<img height="64" src="icons/python.png" alt="Python" /> 
+</p>
+
+<h3 align="center"><span style="color: rgba(255,255,255); font-size: 20px;">Tools</span></h3>
+<p align="center"> 
+<img height="64" src="icons/aseprite.png" alt="Aseprite" /> 
+<img height="64" src="icons/blender.png" alt="Blender" />
+<img height="64" src="icons/github.png" alt="GitHub" /> 
+</p>
+
+<h3 align="center"><span style="color: rgba(255,255,255); font-size: 20px;">Frameworks</span></h3>
+<p align="center"> 
+<img height="64" src="icons/discordpy.png" alt="Discord.Py" />
+<img height="64" src="icons/electron.png" alt="Electron" />
+</p>
+
+<h3 align="center"><span style="color: rgba(255,255,255); font-size: 20px;">Game Engine</span></h3>
+<p align="center">
+<img height="64" src="icons/godot.png" alt="Godot" />
+<img height="64" src="icons/unity.png" alt="Unity" /> 
 </p>
 
 ---
 
-<h2 align="center"><span style="color: rgba(247,92, 126); font-size: 20px;">-- My statistics by the way --</span></h2>
-
-<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Yokasashii&theme=radical" alt="GitHub Streak" /></a></p>
-
-<h2 align="center"><span style="color: rgba(247,92, 126); font-size: 20px;">-- My Skills --</span></h2>
-
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)]()
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
-[![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)]()
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![Discord.py](https://img.shields.io/badge/discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()
-[![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)]()
-[![Godot Engine](https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)]()
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
-
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=f75c7e&center=true&vCenter=true&width=450&lines=Bye+Byee+!;Thank+you+for+stopping+by+!"/></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=ffff&center=true&vCenter=true&width=450&lines=Bye+Byee+!;Thank+you+for+stopping+by+!"/></p>
 <p>
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDM2dzhvZXp1NG5raTdtaTh5OTVvbzlmNzZzeWFtenRjMWU5MWFuciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif" width="1000" />
 </p>
 
 <p align="center">
-  📫 Contact : <a href="mailto:vincentguerrini07@gmail.com.com">vincentguerrini07@gmail.com</a> | 
+  📫 Contact : <a href="mailto:vincentguerrini07@gmail.com.com">vincentguerrini07@gmail.com</a> | 🌐 Portfolio :<a href="vincent-guerrini.com">🏗️</a>
 </p>
