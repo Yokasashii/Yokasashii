@@ -22,11 +22,11 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/Yokasashii/RetroGodot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Yokasashii&repo=RetroGodot&theme=react&bg_color=1F222E&title_color=F85D7F&center=true&hide_border=true&icon_color=F8D866&show_icons=false" alt="RetroGodot"></a>
-  <a href="https://github.com/Yokasashii/PlatineThemAll-Bot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Yokasashii&repo=PlatineThemAll-Bot&center=true&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Calculator"></a>
-  <a href="https://github.com/Yokasashii/COOL-Money"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Yokasashii&repo=COOL-Money&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&center=true&icon_color=F8D866&show_icons=false" alt="Fighting-Tournaments"></a>
-  <a href="https://github.com/Yokasashii/Frog-Me-If-You-Can"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Yokasashii&repo=Frog-Me-If-You-Can&center=true&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="The-Vengeful-Blade"></a>
-  <a href="https://github.com/Yokasashii/PlayBoard"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Yokasashii&repo=PlayBoard&center=true&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Yokasashii"></a>
+  <a href="https://github.com/Yokasashii/PlayBoard"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Yokasashii&repo=PlayBoard&theme=react&bg_color=1F222E&title_color=F85D7F&center=true&hide_border=true&icon_color=F8D866&show_icons=false" alt="PlayBoard"></a>
+  <a href="https://github.com/Yokasashii/PlatineThemAll-Bot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Yokasashii&repo=PlatineThemAll-Bot&center=true&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="PlatineThemAll-Bot"></a>
+  <a href="https://github.com/Yokasashii/COOL-Money"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Yokasashii&repo=COOL-Money&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&center=true&icon_color=F8D866&show_icons=false" alt="COOL-Money"></a>
+  <a href="https://github.com/Yokasashii/Frog-Me-If-You-Can"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Yokasashii&repo=Frog-Me-If-You-Can&center=true&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Frog-Me-If-You-Can"></a>
+  <a href="https://github.com/Yokasashii/Calculator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Yokasashii&repo=Calculator&center=true&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Calculator"></a>
 </p>
 
 <h2 align="center"><span style="color: rgba(255,255,255); font-size: 20px;">--  Skills --</span></h2>
